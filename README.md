@@ -1,1 +1,1 @@
-# C-Quiz
+# C++ Quiz
