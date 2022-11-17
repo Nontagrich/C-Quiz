@@ -3,10 +3,10 @@ using namespace std;
 
 int main(){
     int x,y;
-    cout << "Enter x:";
+    cout << "Input : x = ";
     cin >> x;
 
-    y = 3*(x*x) - 2*x + 5;
+    y = 3*(x*x) - (2*x) + 5;
 
-    cout << y;
+    cout << "So: y = " << y << endl;
 }
