@@ -14,6 +14,6 @@ int main()
 
     result = (a*0.453592) + (b*0.453592)/16;
 
-    cout << a << " pounds " << b << " ounces = " << fixed << setprecision( 2 ) << result;
+    cout << a << " pounds " << b << " ounces = " << fixed << setprecision( 2 ) << result << " Kilograms";
 
 }
